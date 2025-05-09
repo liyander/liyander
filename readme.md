@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Liyander Rishwanth L</h1>
+<h1 align="center">Hey 👋, CyberGhost05</h1>
 <h3 align="center">⚔️ Cybersecurity Engineer | 💻 Full Stack Developer | 🧠 CTF Player</h3>
 
 <p align="center">
