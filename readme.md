@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF7FF&center=true&width=440&lines=Cybersecurity+Enthusiast+%F0%9F%94%AE;Full+Stack+Dev+%F0%9F%92%BB;CTF+Player+%F0%9F%A4%93;Always+learning+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF0b20zbnM5aWx2OWhjYzM0OW9vaGY0bzQxODJpM2I5bGQ0b2QxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xMMt7TQI1BGPT2/100.webp" alt="Profile GIF" width="200" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -21,23 +25,44 @@
 
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
-| 🔥 **CyberBytes** | Full-stack blog platform | MERN | ✅ [Live](https://cyberbytes-c4wu.vercel.app) |
-| 🎬 **Hedone** | Movie recommendation site | React, Node.js | ✅ [Live](http://hedone-d5f2f.web.app) |
-| 🕵️‍♂️ **Insight-AI** | Fake news detection AI | MERN + Python | 🛠️ In Progress |
-| 🎓 **Student Management** | College data system | PHP, MySQL | ✅ Deployed |
-| 🛡️ **CIS Benchmark Tool** | Auto-auditor for Win/Linux | Bash, PowerShell, PyQt6 | ✅ Deployed |
-| 🎙️ **AI Assistant** | Voice-controlled PC tool | Python + APIs | ✅ Deployed |
-| 💣 **BLACKOPS** | CTF recon + exploit kit | Python | ✅ Deployed |
+| 🔥 **CyberBytes** | A full-stack blog platform enabling users to create, read, and share blog posts seamlessly. | MERN Stack | ✅ [Live](https://cyberbytes-c4wu.vercel.app) |
+| 🎬 **Hedone** | A movie recommendation site that helps users discover new and popular films with detailed information. | React, Node.js | ✅ [Live](http://hedone-d5f2f.web.app) |
+| 🕵️‍♂️ **Insight-AI** | An AI-based platform that differentiates between real and fake news in real-time. | MERN, Python | 🛠️ In Progress |
+| 🎓 **Student Management System** | A system for efficient record-keeping and administration in educational institutions. | PHP, MySQL, JavaScript, AJAX | ✅ Deployed |
+| 🛡️ **CIS Benchmark Tool** | Automated auditing scripts designed for both Linux and Windows environments to ensure security compliance. | Bash, PowerShell, PyQt6 | ✅ Deployed |
+| 🎙️ **AI Desktop Assistant** | A voice-controlled assistant that allows users to interact with their PC and execute various tasks via voice commands. | Python, Google API, YouTube API, Wikipedia API, Text-to-Speech Engine, GeoAPI, NewsAPI, OpenWeatherMap API | ✅ Deployed |
+| 💣 **BLACKOPS** | A comprehensive field vulnerability exploiter designed for ethical hacking and CTF operations. | Python | ✅ Deployed |
+| 🧪 **Automated Malware Analysis Tool** | A tool that performs automated static analysis using the VirusTotal API. | Python | ✅ Deployed |
+| 🧰 **Automated Linux Installation Tools** | Scripts to automate the installation of a large number of penetration testing tools. | Bash | ✅ Deployed |
+| 🧾 **Billing Management System** | A system for efficient warehouse stock management and billing with role-based access and an elegant user interface. | LAMP Stack | 🛠️ In Progress |
 
 ---
 
 ### 📜 Certifications
 
-- 🎖️ External Pentesting – TCM Security  
-- 🎖️ Python 101 & 201 – TCM Security  
-- 🎖️ Windows Forensics – TryHackMe  
-- 🎖️ AppSec & Network Sec – The SecOps Group  
-- 🎖️ API PenTesting – APIsec University  
+- 🐍 Python 101 & Python 201 – Mastering Python Fundamentals From TCM Security
+- 🛡️ Cyber Threat Intelligence – CTI Certification From ArcX
+- 🌐 Certified Network Security Practitioner – CNSP Certification From Secops
+- 🔍 OSINT Fundamentals – Advanced Open-Source Intelligence From TCM Security
+- 🐧 Linux Privilege Escalation – Mastering Prevesc From TCM Security Certification
+- ⚡ Security Operation Center 101 – Security Operations Center Basics From TCM Security
+- 🛡️ External Pentesting – Mastering Pentesting From TCM Security
+- 🔗 API Penetration Testing – API Penetration Testing (12 hours) from APISEC University
+- 💻 Practical API Hacking – Hands-on API security From TCM Security
+- 🌐 Practical Web Hacking – Advanced Web Vulnerability Testing From TCM Security
+- 🐧 Linux 101 – Introduction to Linux Systems From Linux 101
+- 🕵️ Windows Forensics – Forensics Training From TCM Security
+- 🌐 Web Fundamentals – Application Security Mastery From Tryhackme
+- 🛡️ Certified Appsec Practitioner – Web App Pentest Certification From The Secops Group Certification
+- 🕵️ Junior Penetration Tester – Mastering Pentesting From TryHackMe Certification
+- 🌍 Web Application PenTesting – Mastering Pentesting From TryHackMe Certification
+- 🤖 Programming with AI – Understanding AI-driven development
+- 🤝 OWASP Hackers Meetup – Networking and Learning with Security Experts
+- 🏆 HackQuest CTF – Second Runner Up Of Nation-level CTF CyberHeals Capture The Flag Competition
+- 🏆 Exploit-X CTF – Winner Of International CTF Exploit-X
+- 🎄 Advent of Cyber – TryHackMe's Cybersecurity Christmas Event
+- 🧩 Cyber Apocalypse CTF 2025 – Ranked 511th among 8130 teams in Cyber Apocalypse CTF 2025 - Tales from Eldoria
+
 
 ---
 
