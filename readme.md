@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF0b20zbnM5aWx2OWhjYzM0OW9vaGY0bzQxODJpM2I5bGQ0b2QxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xMMt7TQI1BGPT2/100.webp" alt="Profile GIF" width="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20xOGF5dWhreHRzMnh3ZmQwaXd1OWVwZzh3NWR3ZjcxYjY5NWE2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xMMt7TQI1BGPT2/giphy.gif" alt="Profile GIF" width="200" />
 </p>
 
 ---
