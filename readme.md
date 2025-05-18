@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, CyberGhost05</h1>
-<h3 align="center">⚔️ Cybersecurity Engineer | 💻 Full Stack Developer | 🧠 CTF Player</h3>
+<h3 align="center">⚔️ Cybersecurity Engineer | 💻 Full Stack Developer | 🧠 CTF Player | 🧬 DEVOPS Engineer | 🟣 Purple Teamer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF7FF&center=true&width=440&lines=Cybersecurity+Enthusiast+%F0%9F%94%AE;Full+Stack+Dev+%F0%9F%92%BB;CTF+Player+%F0%9F%A4%93;Always+learning+%F0%9F%92%A1" alt="Typing SVG" />
@@ -63,6 +63,7 @@
 - 🏆 Exploit-X CTF – Winner Of International CTF Exploit-X
 - 🎄 Advent of Cyber – TryHackMe's Cybersecurity Christmas Event
 - 🧩 Cyber Apocalypse CTF 2025 – Ranked 511th among 8130 teams in Cyber Apocalypse CTF 2025 - Tales from Eldoria
+- 🏠 Hackthebox Pro-labs - Completed the full house pro-labs form HTB
 
 
 ---
