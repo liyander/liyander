@@ -2,7 +2,8 @@
 <h3 align="center">⚔️ Cybersecurity Engineer | 💻 Full Stack Developer | 🧠 CTF Player | 🧬 DEVOPS Engineer | 🟣 Purple Teamer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF7FF&center=true&width=440&lines=Cybersecurity+Enthusiast+%F0%9F%94%AE;Full+Stack+Dev+%F0%9F%92%BB;CTF+Player+%F0%9F%A4%93;Always+learning+%F0%9F%92%A1" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF7FF&center=true&width=440&lines=Cybersecurity+Enthusiast+%F0%9F%94%AE;Full+Stack+Dev+%F0%9F%92%BB;CTF+Player+%F0%9F%A4%93;Purple+Teamer+%F0%9F%9F%A3%F0%9F%9B%A1%EF%B8%8F%F0%9F%92%BB;DevOps+Engineer+%F0%9F%9A%80%F0%9F%9A%A7;Always+learning+%F0%9F%92%A1" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
