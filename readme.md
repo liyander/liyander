@@ -28,7 +28,7 @@
 |--------|-------------|------------|--------|
 | 🔥 **CyberBytes** | A full-stack blog platform enabling users to create, read, and share blog posts seamlessly. | MERN Stack | ✅ [Live](https://cyberbytes-c4wu.vercel.app) |
 | 🕵️  **Portfolio** | This is my portfolio created for myself.This reflects the author's passion and growing expertise in ethical hacking and cyber defense, making it a solid demonstration of both technical knowledge and practical application. | MERN Stack | ✅ [Live](https://cyberghost-portfolio.web.app) |
-| 🎬 **Hedone** | A movie recommendation site that helps users discover new and popular films with detailed information. | React, Node.js | ✅ [Live](http://hedone-d5f2f.web.app) |
+| 🎬 **Hedone** | A movie streaming site that helps users discover new and popular films with detailed information and watch hollywood movies and some regional movies for entirely free | React, Node.js | ✅ [Live](http://hedone-d5f2f.web.app) |
 | 🕵️‍♂️ **Insight-AI** | An AI-based platform that differentiates between real and fake news in real-time. | MERN, Python | 🛠️ In Progress |
 | 🎓 **Student Management System** | A system for efficient record-keeping and administration in educational institutions. | PHP, MySQL, JavaScript, AJAX | ✅ Deployed |
 | 🛡️ **CIS Benchmark Tool** | Automated auditing scripts designed for both Linux and Windows environments to ensure security compliance. | Bash, PowerShell, PyQt6 | ✅ Deployed |
