@@ -92,20 +92,30 @@
 
 ---
 
+## 🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=liyander&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=liyander&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=liyander&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+</p>
+
 ## 📊 IMPERIAL GITHUB INTELLIGENCE
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liyander&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liyander&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liyander&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liyander&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liyander&theme=radical" width="25%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liyander&theme=radical" width="25%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liyander&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liyander&theme=github_dark&utcOffset=5" width="45%" />
+  <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=liyander&theme=nightowl&background=0,000000,8b0000&fire=ff4d4d&ring=ff4d4d&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ff4d4d" width="35%" />
+  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=liyander&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,8b0000&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" width="33%" />
+
 </p>
 
 ---
@@ -117,24 +127,24 @@
 </p>
 
 ```text
-╔══════════════════════════════════════════════╗
-║        STAR WARS :: RED TEAM MODE            ║
-╠══════════════════════════════════════════════╣
-║ PLAYER : CYBERGHOST05                        ║
-║ CLASS  : SITH RED TEAM OPERATIVE             ║
-║                                              ║
-║ HP  ██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒                 ║
-║ XP  ████████████████▒▒▒▒▒▒▒                  ║
-║                                              ║
-║ SKILLS UNLOCKED                              ║
-║    Web & API Pentesting                      ║
-║    AD Exploitation                           ║
-║    Malware Analysis                          ║
-║    AI Exploitation                           ║
-║                                              ║
-║ NEXT MISSION                                 ║
-║    ROOT THE ENTERPRISE                       ║
-╚══════════════════════════════════════════════╝
+                                                                      ╔══════════════════════════════════════════════╗
+                                                                      ║        STAR WARS :: RED TEAM MODE            ║
+                                                                      ╠══════════════════════════════════════════════╣
+                                                                      ║ PLAYER : CYBERGHOST05                        ║
+                                                                      ║ CLASS  : SITH RED TEAM OPERATIVE             ║
+                                                                      ║                                              ║
+                                                                      ║ HP  ██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒                 ║
+                                                                      ║ XP  ████████████████▒▒▒▒▒▒▒                  ║
+                                                                      ║                                              ║
+                                                                      ║ SKILLS UNLOCKED                              ║
+                                                                      ║    Web & API Pentesting                      ║
+                                                                      ║    AD Exploitation                           ║
+                                                                      ║    Malware Analysis                          ║
+                                                                      ║    AI Exploitation                           ║
+                                                                      ║                                              ║
+                                                                      ║ NEXT MISSION                                 ║
+                                                                      ║    ROOT THE ENTERPRISE                       ║
+                                                                      ╚══════════════════════════════════════════════╝
 ```
 
 <p align="center">
