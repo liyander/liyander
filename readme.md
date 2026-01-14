@@ -1,95 +1,141 @@
-<h1 align="center">Hey 👋, CyberGhost05</h1>
-<h3 align="center">⚔️ Cybersecurity Engineer | 💻 Full Stack Developer | 🧠 CTF Player | 🧬 DEVOPS Engineer | 🟣 Purple Teamer</h3>
+<div align="center">
 
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF7FF&center=true&width=440&lines=Cybersecurity+Enthusiast+%F0%9F%94%AE;Full+Stack+Dev+%F0%9F%92%BB;CTF+Player+%F0%9F%A4%93;Purple+Teamer+%F0%9F%9F%A3%F0%9F%9B%A1%EF%B8%8F%F0%9F%92%BB;DevOps+Engineer+%F0%9F%9A%80%F0%9F%9A%A7;Always+learning+%F0%9F%92%A1" alt="Typing SVG" />
+<h1> CYBERGHOST05 </h1>
+<h3>Red Team Operative · Vulnerability Researcher · CTF Champion</h3>
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=Welcome+to+the+Dark+Side+of+Security;Breaking+Systems+Before+Adversaries+Do;Red+Team+%7C+AI+Exploitation+%7C+CTFs;Security+is+Power.+Power+is+Control" />
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20xOGF5dWhreHRzMnh3ZmQwaXd1OWVwZzh3NWR3ZjcxYjY5NWE2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xMMt7TQI1BGPT2/giphy.gif" alt="Profile GIF" width="400" />
-</p>
+</p> 
 
----
-
-### 🧠 About Me
-
-- 🎓 B.Tech Cyber Security @ Sri Shakthi Institute of Engineering and Technology (2027)
-- 🔐 Passionate about Hacking, OSINT, Malware Analysis & Exploit Development
-- 💻 Full Stack Developer (MERN, LAMP) & DevOps Deployment Enthusiast
-- 🏆 CTF Champion – Winner @ Exploit-X | 🥉 2nd Runner-up @ HackQuest | Top 1% TryHackMe
-- 🚀 I build AI tools, malware analyzers, audit scripts, and assistant bots
-
----
-
-### 💡 Key Projects
-
-| Project | Description | Tech Stack | Status |
-|--------|-------------|------------|--------|
-| 🔥 **CyberBytes** | A full-stack blog platform enabling users to create, read, and share blog posts seamlessly. | MERN Stack | ✅ [Live](https://cyberbytes-c4wu.vercel.app) |
-| 🕵️  **Portfolio** | This is my portfolio created for myself.This reflects the author's passion and growing expertise in ethical hacking and cyber defense, making it a solid demonstration of both technical knowledge and practical application. | MERN Stack | ✅ [Live](https://cyberghost-portfolio.web.app) |
-| 🎬 **Hedone** | A movie streaming site that helps users discover new and popular films with detailed information and watch hollywood movies and some regional movies for entirely free | React, Node.js | ✅ [Live](http://hedone-d5f2f.web.app) |
-| 🕵️‍♂️ **Insight-AI** | An AI-based platform that differentiates between real and fake news in real-time. | MERN, Python | 🛠️ In Progress |
-| 🎓 **Student Management System** | A system for efficient record-keeping and administration in educational institutions. | PHP, MySQL, JavaScript, AJAX | ✅ Deployed |
-| 🛡️ **CIS Benchmark Tool** | Automated auditing scripts designed for both Linux and Windows environments to ensure security compliance. | Bash, PowerShell, PyQt6 | ✅ Deployed |
-| 🎙️ **AI Desktop Assistant** | A voice-controlled assistant that allows users to interact with their PC and execute various tasks via voice commands. | Python, Google API, YouTube API, Wikipedia API, Text-to-Speech Engine, GeoAPI, NewsAPI, OpenWeatherMap API | ✅ Deployed |
-| 💣 **BLACKOPS** | A comprehensive field vulnerability exploiter designed for ethical hacking and CTF operations. | Python | ✅ Deployed |
-| 🧪 **Automated Malware Analysis Tool** | A tool that performs automated static analysis using the VirusTotal API. | Python | ✅ Deployed |
-| 🧰 **Automated Linux Installation Tools** | Scripts to automate the installation of a large number of penetration testing tools. | Bash | ✅ Deployed |
-| 🧾 **Billing Management System** | A system for efficient warehouse stock management and billing with role-based access and an elegant user interface. | LAMP Stack | 🛠️ In Progress |
-
----
-
-### 📜 Certifications
-
-- 🐍 Python 101 & Python 201 – Mastering Python Fundamentals From TCM Security
-- 🛡️ Cyber Threat Intelligence – CTI Certification From ArcX
-- 🌐 Certified Network Security Practitioner – CNSP Certification From Secops
-- 🔍 OSINT Fundamentals – Advanced Open-Source Intelligence From TCM Security
-- 🐧 Linux Privilege Escalation – Mastering Prevesc From TCM Security Certification
-- ⚡ Security Operation Center 101 – Security Operations Center Basics From TCM Security
-- 🛡️ External Pentesting – Mastering Pentesting From TCM Security
-- 🔗 API Penetration Testing – API Penetration Testing (12 hours) from APISEC University
-- 💻 Practical API Hacking – Hands-on API security From TCM Security
-- 🌐 Practical Web Hacking – Advanced Web Vulnerability Testing From TCM Security
-- 🐧 Linux 101 – Introduction to Linux Systems From Linux 101
-- 🕵️ Windows Forensics – Forensics Training From TCM Security
-- 🌐 Web Fundamentals – Application Security Mastery From Tryhackme
-- 🛡️ Certified Appsec Practitioner – Web App Pentest Certification From The Secops Group Certification
-- 🕵️ Junior Penetration Tester – Mastering Pentesting From TryHackMe Certification
-- 🌍 Web Application PenTesting – Mastering Pentesting From TryHackMe Certification
-- 🤖 Programming with AI – Understanding AI-driven development
-- 🤝 OWASP Hackers Meetup – Networking and Learning with Security Experts
-- 🏆 HackQuest CTF – Second Runner Up Of Nation-level CTF CyberHeals Capture The Flag Competition
-- 🏆 Exploit-X CTF – Winner Of International CTF Exploit-X
-- 🎄 Advent of Cyber – TryHackMe's Cybersecurity Christmas Event
-- 🧩 Cyber Apocalypse CTF 2025 – Ranked 511th among 8130 teams in Cyber Apocalypse CTF 2025 - Tales from Eldoria
-- 🏠 Hackthebox Pro-labs - Completed the full house pro-labs form HTB
-
-
----
-
-### 🛠️ Tools & Skills
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF7FF&center=true&width=440&lines=Cybersecurity+Enthusiast+%F0%9F%94%AE;Full+Stack+Dev+%F0%9F%92%BB;CTF+Player+%F0%9F%A4%93;Purple+Teamer+%F0%9F%9F%A3%F0%9F%9B%A1%EF%B8%8F%F0%9F%92%BB;DevOps+Engineer+%F0%9F%9A%80%F0%9F%9A%A7;Always+learning+%F0%9F%92%A1" alt="Typing SVG" />
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=liyander&show_icons=true&theme=react&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=liyander&theme=react&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=liyander&label=IMPERIAL+VISITORS&color=8b0000&style=for-the-badge" />
+</p> 
+</div>
+
+---
+
+## 🛡️ IMPERIAL DOSSIER
+
+> *"You do not know the power of the Dark Side."*
+
+**Name:** Liyander Rishwanth L
+**Codename:** CyberGhost05
+**Role:** Cyber Security Engineer / Red Team Operator
+**Affiliation:** ISRO (CyberSecurity Intern)
+
+* Conducted internal security audits and hardening
+* Discovered real-world vulnerabilities across global institutions
+* Specialist in adversary emulation, AI exploitation, and red team ops
+
+---
+
+## ⚔️ WEAPONS OF WAR
+
+<table align="center">
+<tr>
+<td align="center">Recon</td>
+<td align="center">Initial Access</td>
+<td align="center">Lateral Movement</td>
+<td align="center">Exploitation</td>
+<td align="center">Reporting</td>
+</tr>
+<tr>
+<td align="center">OSINT</td>
+<td align="center">Web/API</td>
+<td align="center">AD Attacks</td>
+<td align="center">RCE / XSS / SQLi</td>
+<td align="center">CVE Disclosure</td>
+</tr>
+</table>
+
+---
+
+## 🧠 SIGNATURE PROJECTS
+
+<table align="center">
+<tr><th>Project</th><th>Description</th><th>Status</th></tr>
+<tr><td>🔥 Star Fighter</td><td>Autonomous AI Pentesting Agent</td><td>Active</td></tr>
+<tr><td>🛡️ CIS Benchmark Tool</td><td>Windows/Linux Hardening Auditor</td><td>Deployed</td></tr>
+<tr><td>💣 BLACKOPS</td><td>Field Vulnerability Exploiter</td><td>Deployed</td></tr>
+<tr><td>🦠 Malware Analyzer</td><td>Automated Static Analysis Engine</td><td>Deployed</td></tr>
+<tr><td>🌐 CyberBytes</td><td>Full‑Stack Cyber Blog Platform</td><td>Live</td></tr>
+<tr><td>🌐 Red Vault</td><td>Site For Cyber Arsenal</td><td>Live</td></tr>
+<tr><td>🛡️ Helios</td><td>Cyber Threat Intelligence Platform</td><td>Live</td></tr>
+</table>
+
+---
+
+## 🧨 REAL‑WORLD IMPACT
+
+* 🧨 **CVE‑2025‑59540** — October CMS
+* ☠️ RCE — Microsoft WSL
+* 🎯 Vulnerabilities disclosed to:
+
+  * Oxford University (SQLi)
+  * Harvard University (XSS)
+  * Princeton University (Info Disclosure)
+  * Cambridge University (XSS)
+  * NASA systems
+
+---
+
+## 🏆 CONQUESTS
+
+* 🥇 Exploit‑X — International CTF Champion
+* 🥇 L3m0nCTF — National Champion
+* 🥈 HackQuest — National Runner‑Up
+* 🥈 ACNCTF — National Runner‑Up
+
+---
+
+## 📊 IMPERIAL GITHUB INTELLIGENCE
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liyander&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liyander&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liyander&theme=github_dark" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liyander&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liyander&theme=github_dark&utcOffset=5" width="45%" />
+</p>
+
+---
+
+## 🎮 THE FORCE ARENA (PIXEL WAR)
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/636/animated-star-wars-image-0009.gif" width="280" />
+</p>
+
+```text
+╔══════════════════════════════════════════════╗
+║        STAR WARS :: RED TEAM MODE            ║
+╠══════════════════════════════════════════════╣
+║ PLAYER : CYBERGHOST05                        ║
+║ CLASS  : SITH RED TEAM OPERATIVE             ║
+║                                              ║
+║ HP  ██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒                 ║
+║ XP  ████████████████▒▒▒▒▒▒▒                  ║
+║                                              ║
+║ SKILLS UNLOCKED                              ║
+║    Web & API Pentesting                      ║
+║    AD Exploitation                           ║
+║    Malware Analysis                          ║
+║    AI Exploitation                           ║
+║                                              ║
+║ NEXT MISSION                                 ║
+║    ROOT THE ENTERPRISE                       ║
+╚══════════════════════════════════════════════╝
+```
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=liyander&theme=react-dark" />
@@ -97,22 +143,16 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🧰 IMPERIAL TOOLCHAIN
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liyander&theme=tokyonight&no-frame=true&row=1" />
+<img src="https://skillicons.dev/icons?i=python,js,bash,powershell,linux,docker,react,nodejs,mongodb,mysql,git,github&theme=dark" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+### 🔎 SEO CORE
 
-<p align="center">
-  <a href="https://linkedin.com/in/liyander-rishwanth"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:liyanderrishwanth18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://cyberghost-portfolio.web.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Firefox&logoColor=white" /></a>
-</p>
+`Cyber Security Engineer` · `Red Team` · `Web Pentesting` · `API Security` · `CTF Champion` · `Vulnerability Research` · `AI Exploitation`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liyander&label=Profile%20views&color=0e75b6&style=flat" alt="liyander" />
-</p>
+> **The Dark Side does not fear statistics. It weaponizes them.**
