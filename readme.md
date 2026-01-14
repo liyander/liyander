@@ -127,24 +127,24 @@
 </p>
 
 ```text
-                                              ╔══════════════════════════════════════════════╗
-                                              ║        STAR WARS :: RED TEAM MODE            ║
-                                              ╠══════════════════════════════════════════════╣
-                                              ║ PLAYER : CYBERGHOST05                        ║
-                                              ║ CLASS  : SITH RED TEAM OPERATIVE             ║
-                                              ║                                              ║
-                                              ║ HP  ██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒                 ║
-                                              ║ XP  ████████████████▒▒▒▒▒▒▒                  ║
-                                              ║                                              ║
-                                              ║ SKILLS UNLOCKED                              ║
-                                              ║    Web & API Pentesting                      ║
-                                              ║    AD Exploitation                           ║
-                                              ║    Malware Analysis                          ║
-                                              ║    AI Exploitation                           ║
-                                              ║                                              ║
-                                              ║ NEXT MISSION                                 ║
-                                              ║    ROOT THE ENTERPRISE                       ║
-                                              ╚══════════════════════════════════════════════╝
+                                          ╔══════════════════════════════════════════════╗
+                                          ║        STAR WARS :: RED TEAM MODE            ║
+                                          ╠══════════════════════════════════════════════╣
+                                          ║ PLAYER : CYBERGHOST05                        ║
+                                          ║ CLASS  : SITH RED TEAM OPERATIVE             ║
+                                          ║                                              ║
+                                          ║ HP  ██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒                 ║
+                                          ║ XP  ████████████████▒▒▒▒▒▒▒                  ║
+                                          ║                                              ║
+                                          ║ SKILLS UNLOCKED                              ║
+                                          ║    Web & API Pentesting                      ║
+                                          ║    AD Exploitation                           ║
+                                          ║    Malware Analysis                          ║
+                                          ║    AI Exploitation                           ║
+                                          ║                                              ║
+                                          ║ NEXT MISSION                                 ║
+                                          ║    ROOT THE ENTERPRISE                       ║
+                                          ╚══════════════════════════════════════════════╝
 ```
 
 <p align="center">
