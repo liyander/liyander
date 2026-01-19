@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.bloggif.com/tmp/821f0543e7afc7bc48ce65c2e9812e8e/text.gif?1768381786" />
+<h1>CyberGhost05</h1>
 <h3>Red Team Operative · Vulnerability Researcher · CTF Champion</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=Welcome+to+the+Dark+Side+of+Security;Breaking+Systems+Before+Adversaries+Do;Red+Team+%7C+AI+Exploitation+%7C+CTFs;Security+is+Power.+Power+is+Control" />
