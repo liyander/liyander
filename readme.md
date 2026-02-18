@@ -89,6 +89,7 @@
 * 🥇 L3m0nCTF — National Champion
 * 🥈 HackQuest — National Runner‑Up
 * 🥈 ACNCTF — National Runner‑Up
+* 🥈 HackQuest — National Runner‑Up
 
 ---
 
