@@ -17,6 +17,8 @@
 </div>
 
 ---
+![Metrics](/github-metrics.svg)
+---
 
 ## 🛡️ IMPERIAL DOSSIER
 
