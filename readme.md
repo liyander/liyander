@@ -72,7 +72,6 @@
 ## 🧨 REAL‑WORLD IMPACT
 
 * ![CVE-2025-59540](https://img.shields.io/badge/CVE-2025--59540-red)
-* ![CVE-2026-29055](https://img.shields.io/badge/CVE-2026-29055-red)
 * ☠️ RCE — Microsoft WSL
 * 🎯 Vulnerabilities disclosed to:
 
