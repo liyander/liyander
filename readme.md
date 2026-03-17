@@ -18,8 +18,14 @@
 
 ---
 <p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="800"></p>
+
+---
 <p align="center"><img src="/metrics.terminal.svg" alt="Metrics" width="800"></p>
+
+---
 <p align="center"><img src="/metrics.plugin.anilist.svg" alt="Metrics" width="800"></p>
+
+---
 <p align="center"><img src="/metrics.plugin.anilist.characters.svg" alt="Metrics" width="800"></p>
 
 ---
