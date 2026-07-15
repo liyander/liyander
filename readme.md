@@ -1,181 +1,139 @@
 <div align="center">
 
-<h1>CyberGhost05</h1>
-<h3>Red Team Operative · Vulnerability Researcher · CTF Champion</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,55:3b0710,100:b11226&text=CYBERGHOST05&fontColor=f7f7f7&fontSize=48&fontAlignY=38&desc=Red%20Team%20Operator%20%E2%80%A2%20Vulnerability%20Researcher%20%E2%80%A2%20CTF%20Champion&descAlignY=59&descSize=15&animation=fadeIn" alt="CyberGhost05 banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=Welcome+to+the+Dark+Side+of+Security;Breaking+Systems+Before+Adversaries+Do;Red+Team+%7C+AI+Exploitation+%7C+CTFs;Security+is+Power.+Power+is+Control" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FF4D6D&center=true&vCenter=true&width=720&lines=Breaking+systems+before+adversaries+do.;Red+Team+%E2%80%A2+AI+Exploitation+%E2%80%A2+CTFs;Security+is+power.+Use+it+responsibly." alt="Typing introduction" />
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20xOGF5dWhreHRzMnh3ZmQwaXd1OWVwZzh3NWR3ZjcxYjY5NWE2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xMMt7TQI1BGPT2/giphy.gif" alt="Profile GIF" width="400" />
-</p> 
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF7FF&center=true&width=440&lines=Cybersecurity+Enthusiast+%F0%9F%94%AE;Full+Stack+Dev+%F0%9F%92%BB;CTF+Player+%F0%9F%A4%93;Purple+Teamer+%F0%9F%9F%A3%F0%9F%9B%A1%EF%B8%8F%F0%9F%92%BB;DevOps+Engineer+%F0%9F%9A%80%F0%9F%9A%A7;Always+learning+%F0%9F%92%A1" alt="Typing SVG" />
+<a href="https://github.com/liyander?tab=followers"><img src="https://img.shields.io/github/followers/liyander?style=for-the-badge&logo=github&label=Operatives&color=b11226&labelColor=111111" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=liyander&label=Dossier%20Views&color=b11226&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/liyander"><img src="https://img.shields.io/badge/Status-Operational-28c840?style=for-the-badge&labelColor=111111" alt="Status: operational" /></a>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=liyander&label=IMPERIAL+VISITORS&color=8b0000&style=for-the-badge" />
-</p> 
 </div>
 
----
-<p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="800"></p>
+<br />
 
----
-<p align="center"><img src="/metrics.terminal.svg" alt="Metrics" width="800"></p>
+## `> operator.profile`
 
----
-<p align="center"><img src="/metrics.plugin.anilist.svg" alt="Metrics" width="800"></p>
-
----
-<p align="center"><img src="/metrics.plugin.anilist.characters.svg" alt="Metrics" width="800"></p>
-
----
-
-## 🛡️ IMPERIAL DOSSIER
-
-> *"You do not know the power of the Dark Side."*
-
-**Name:** Liyander Rishwanth L
-**Codename:** CyberGhost05
-**Role:** Cyber Security Engineer / Red Team Operator
-**Affiliation:** ISRO (CyberSecurity Intern)
-
-* Conducted internal security audits and hardening
-* Discovered real-world vulnerabilities across global institutions
-* Specialist in adversary emulation, AI exploitation, and red team ops
-
----
-
-## ⚔️ WEAPONS OF WAR
-
-<table align="center">
-<tr>
-<td align="center">Recon</td>
-<td align="center">Initial Access</td>
-<td align="center">Lateral Movement</td>
-<td align="center">Exploitation</td>
-<td align="center">Reporting</td>
-</tr>
-<tr>
-<td align="center">OSINT</td>
-<td align="center">Web/API</td>
-<td align="center">AD Attacks</td>
-<td align="center">RCE / XSS / SQLi</td>
-<td align="center">CVE Disclosure</td>
-</tr>
-</table>
-
----
-
-## 🧠 SIGNATURE PROJECTS
-
-<table align="center">
-<tr><th>Project</th><th>Description</th><th>Status</th></tr>
-<tr><td>🔥 Star Fighter</td><td>Autonomous AI Pentesting Agent</td><td>Active</td></tr>
-<tr><td>🛡️ CIS Benchmark Tool</td><td>Windows/Linux Hardening Auditor</td><td>Deployed</td></tr>
-<tr><td>💣 BLACKOPS</td><td>Field Vulnerability Exploiter</td><td>Deployed</td></tr>
-<tr><td>🦠 Malware Analyzer</td><td>Automated Static Analysis Engine</td><td>Deployed</td></tr>
-<tr><td>🌐 CyberBytes</td><td>Full‑Stack Cyber Blog Platform</td><td>Live</td></tr>
-<tr><td>🌐 Red Vault</td><td>Site For Cyber Arsenal</td><td>Live</td></tr>
-<tr><td>🛡️ Helios</td><td>Cyber Threat Intelligence Platform</td><td>Live</td></tr>
-</table>
-
----
-
-## 🧨 REAL‑WORLD IMPACT
-
-* ![CVE-2025-59540](https://img.shields.io/badge/CVE-2025--59540-red)
-* ☠️ RCE — Microsoft WSL
-* 🎯 Vulnerabilities disclosed to:
-
-  * Oxford University (SQLi)
-  * Harvard University (XSS)
-  * Princeton University (Info Disclosure)
-  * Cambridge University (XSS)
-  * NASA systems
-
----
-
-## 🏆 CONQUESTS
-
-* 🥇 Exploit‑X — International CTF Champion
-* 🥇 L3m0nCTF — National Champion
-* 🥈 HackQuest — National Runner‑Up
-* 🥈 ACNCTF — National Runner‑Up
-* 🥈 HackQuest — National Runner‑Up
-
----
-
-## 🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=liyander&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=liyander&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=liyander&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-</p>
-
-## 📊 IMPERIAL GITHUB INTELLIGENCE
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liyander&theme=radical" width="65%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liyander&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liyander&theme=radical" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=liyander&theme=nightowl&background=0,000000,8b0000&fire=ff4d4d&ring=ff4d4d&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ff4d4d" width="45%" />
-  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=liyander&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,8b0000&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" width="43%" />
-
-</p>
-
----
-
-## 🎮 THE FORCE ARENA (PIXEL WAR)
-
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/636/animated-star-wars-image-0009.gif" width="280" />
-</p>
-
-```text
-                                          ╔══════════════════════════════════════════════╗
-                                          ║        STAR WARS :: RED TEAM MODE            ║
-                                          ╠══════════════════════════════════════════════╣
-                                          ║ PLAYER : CYBERGHOST05                        ║
-                                          ║ CLASS  : SITH RED TEAM OPERATIVE             ║
-                                          ║                                              ║
-                                          ║ HP  ██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒                 ║
-                                          ║ XP  ████████████████▒▒▒▒▒▒▒                  ║
-                                          ║                                              ║
-                                          ║ SKILLS UNLOCKED                              ║
-                                          ║    Web & API Pentesting                      ║
-                                          ║    AD Exploitation                           ║
-                                          ║    Malware Analysis                          ║
-                                          ║    AI Exploitation                           ║
-                                          ║                                              ║
-                                          ║ NEXT MISSION                                 ║
-                                          ║    ROOT THE ENTERPRISE                       ║
-                                          ╚══════════════════════════════════════════════╝
+```yaml
+name: Liyander Rishwanth L
+callsign: CyberGhost05
+role: Cyber Security Engineer / Red Team Operator
+focus: [Adversary Emulation, Vulnerability Research, AI Security]
+experience: ISRO Cybersecurity Intern
+mission: Find the weakness. Explain the risk. Make the system stronger.
 ```
 
+I work where offensive security meets engineering: testing applications, APIs, identity systems, and AI-enabled workflows, then turning technical findings into practical defenses.
+
+| RECON | OFFENSIVE SECURITY | ENGINEERING | DEFENSE |
+|:---:|:---:|:---:|:---:|
+| OSINT & attack-surface mapping | Web, API & AD testing | Python, JavaScript & automation | Hardening & security audits |
+| Threat intelligence | RCE, XSS & SQLi research | AI-assisted security tooling | Reporting & responsible disclosure |
+
+## `> selected.operations`
+
+| Project | Mission | State |
+|:--|:--|:--:|
+| **Star Fighter** | Autonomous AI penetration-testing agent | `ACTIVE` |
+| **CIS Benchmark Tool** | Windows and Linux hardening auditor | `DEPLOYED` |
+| **BLACKOPS** | Field vulnerability assessment toolkit | `DEPLOYED` |
+| **Malware Analyzer** | Automated static-analysis engine | `DEPLOYED` |
+| **CyberBytes** | Full-stack cybersecurity publishing platform | `LIVE` |
+| **Red Vault** | Curated cyber arsenal and resources | `LIVE` |
+| **Helios** | Cyber threat-intelligence platform | `LIVE` |
+
+## `> field.intelligence`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Impact
+
+- **CVE-2025-59540** — RCE affecting Microsoft WSL
+- Security findings responsibly disclosed to Oxford, Harvard, Princeton, Cambridge, and NASA systems
+- Research spanning SQL injection, cross-site scripting, and information disclosure
+
+</td>
+<td width="50%" valign="top">
+
+### CTF record
+
+- **Champion** — Exploit-X International CTF
+- **Champion** — L3m0nCTF National CTF
+- **Runner-up** — HackQuest National CTF
+- **Runner-up** — ACNCTF National CTF
+
+</td>
+</tr>
+</table>
+
+## `> arsenal.loadout`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,bash,powershell,linux,docker,react,nodejs,mongodb,mysql,git,github&theme=dark&perline=12" alt="Technology stack" />
+
+<br /><br />
+
+![Web Security](https://img.shields.io/badge/Web%20Security-b11226?style=flat-square&logo=hackthebox&logoColor=white)
+![API Security](https://img.shields.io/badge/API%20Security-ff4d6d?style=flat-square&logo=fastapi&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-522546?style=flat-square&logo=windows&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-151515?style=flat-square&logo=virustotal&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI%20Security-0891b2?style=flat-square&logo=openai&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-334155?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+## `> telemetry.stream`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liyander&theme=radical" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liyander&theme=default" alt="GitHub contribution overview" />
+</picture>
+
+<br />
+
+<img width="48%" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=liyander&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak" />
+<img width="48%" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=liyander&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&rank_icon=github" alt="GitHub statistics" />
+
+<br />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=liyander&bg_color=0d1117&color=ff4d6d&line=b11226&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+
+</div>
+
+<details>
+<summary><strong>Extended telemetry</strong></summary>
+<br />
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liyander&theme=react-dark" />
+  <img width="96%" src="./github-metrics.svg" alt="Detailed GitHub metrics" />
+  <img width="96%" src="./metrics.plugin.isocalendar.fullyear.svg" alt="Yearly contribution calendar" />
+  <img width="96%" src="./metrics.terminal.svg" alt="Terminal-style metrics" />
 </p>
+</details>
 
----
-
-## 🧰 IMPERIAL TOOLCHAIN
-
+<details>
+<summary><strong>Anime transmission</strong></summary>
+<br />
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,bash,powershell,linux,docker,react,nodejs,mongodb,mysql,git,github&theme=dark" />
+  <img width="96%" src="./metrics.plugin.anilist.svg" alt="AniList metrics" />
+  <img width="96%" src="./metrics.plugin.anilist.characters.svg" alt="Favorite AniList characters" />
 </p>
+</details>
 
----
+<br />
 
-### 🔎 SEO CORE
+<div align="center">
 
-`Cyber Security Engineer` · `Red Team` · `Web Pentesting` · `API Security` · `CTF Champion` · `Vulnerability Research` · `AI Exploitation`
+> “The quieter you become, the more you are able to hear.”
 
-> **The Dark Side does not fear statistics. It weaponizes them.**
+<sub>Cyber Security • Red Teaming • Web & API Security • Vulnerability Research • AI Exploitation</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:050505,55:3b0710,100:b11226" alt="Footer" />
+
+</div>
