@@ -2,6 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:000000,45:180006,78:69000f,100:d00020&text=CYBERGHOST05&fontColor=ffffff&fontSize=52&fontAlignY=37&desc=SECURITY%20ENGINEER%20%E2%80%A2%20VULNERABILITY%20RESEARCHER%20%E2%80%A2%20RED%20TEAMER&descAlignY=58&descSize=15&animation=fadeIn&stroke=ff163d&strokeWidth=1" alt="CyberGhost05 threat dossier banner" />
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20xOGF5dWhreHRzMnh3ZmQwaXd1OWVwZzh3NWR3ZjcxYjY5NWE2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xMMt7TQI1BGPT2/giphy.gif" alt="Deadpool GIF" width="400" />
+
+<br />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1100&color=FF163D&center=true&vCenter=true&width=820&lines=%5B+ACCESS+GRANTED+%5D+WELCOME+TO+THE+KILL+CHAIN;%5B+18+CVEs+%5D+ONE+OF+THEM+SCORED+A+PERFECT+10.0;I+DON'T+BREAK+SYSTEMS.+I+REVEAL+WHAT+ALREADY+IS.;RED+TEAM+%E2%80%A2+CLOUD+SECURITY+%E2%80%A2+DEVSECOPS" alt="Threat console introduction" />
 
 <br />
@@ -21,10 +25,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ## `// THREAT_ACTOR_PROFILE`
 
 ```yaml
@@ -41,13 +41,6 @@ clearance: "responsible disclosure only"
 ```
 
 Security engineer operating at the intersection of **cloud defense, DevSecOps, application security, and offensive research**. I turn attack paths into resilient infrastructure - from hardening CI/CD and cloud environments to finding vulnerabilities before adversaries do.
-
-</td>
-<td width="42%" align="center" valign="middle">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20xOGF5dWhreHRzMnh3ZmQwaXd1OWVwZzh3NWR3ZjcxYjY5NWE2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xMMt7TQI1BGPT2/giphy.gif" alt="Deadpool GIF" width="340" />
-</td>
-</tr>
-</table>
 
 ## `// ZERO_DAY_LEDGER`
 
