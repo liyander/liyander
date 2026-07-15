@@ -23,9 +23,15 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:000000,52:250008,100:8b0015&text=THREAT%20ACTOR%20PROFILE&fontColor=ff163d&fontSize=23&fontAlign=18&animation=fadeIn" alt="Threat actor profile section" />
 
-## `// THREAT_ACTOR_PROFILE`
+<div align="center">
+
+![Threat Level](https://img.shields.io/badge/THREAT_LEVEL-CRITICAL-d00020?style=for-the-badge&labelColor=050505)
+![Designation](https://img.shields.io/badge/DESIGNATION-OFFENSIVE_ENGINEER-69000f?style=for-the-badge&labelColor=050505)
+![Rules](https://img.shields.io/badge/ROE-RESPONSIBLE_DISCLOSURE-222222?style=for-the-badge&labelColor=050505)
+
+</div>
 
 ```yaml
 identity: Liyander Rishwanth L
@@ -40,20 +46,48 @@ location: Tamil Nadu, India
 clearance: "responsible disclosure only"
 ```
 
-Security engineer operating at the intersection of **cloud defense, DevSecOps, application security, and offensive research**. I turn attack paths into resilient infrastructure - from hardening CI/CD and cloud environments to finding vulnerabilities before adversaries do.
+> **SUBJECT ANALYSIS**<br />
+> Security engineer operating at the intersection of **cloud defense, DevSecOps, application security, and offensive research**. Attack paths are mapped, exploited under authorization, documented, and converted into resilient infrastructure.
 
-## `// ZERO_DAY_LEDGER`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:000000,52:250008,100:8b0015&text=ZERO-DAY%20LEDGER&fontColor=ff163d&fontSize=23&fontAlign=16&animation=fadeIn" alt="Zero-day ledger section" />
 
-> **18 published CVEs. Maximum severity: 10.0. Vendors affected: Apple, Google, Microsoft, Oracle, and more.**
+<div align="center">
 
-| Target | Finding | Impact |
-|:--|:--|:--:|
-| **Google Mesop AI** | [CVE-2026-33054](https://nvd.nist.gov/vuln/detail/CVE-2026-33054) + [CVE-2026-33057](https://nvd.nist.gov/vuln/detail/CVE-2026-33057) | `CVSS 10.0` RCE chain |
-| **Apple Swift-NIO** | [CVE-2026-43678](https://nvd.nist.gov/vuln/detail/CVE-2026-43678) | WebSocket frame decoder crash |
-| **Budibase** | [CVE-2026-50137](https://nvd.nist.gov/vuln/detail/CVE-2026-50137) | Authorization bypass / credential exposure |
-| **Directus CMS** | [CVE-2026-35441](https://nvd.nist.gov/vuln/detail/CVE-2026-35441) | Unauthorized access / data exposure |
-| **Apple Container** | 2 official GitHub security advisories | Integer overflow / symlink traversal |
-| **Microsoft + Oracle** | 5 responsibly disclosed vulnerabilities | Infrastructure and critical software flaws |
+![Published](https://img.shields.io/badge/PUBLISHED_CVEs-18-8b0015?style=for-the-badge&labelColor=050505)
+![Maximum](https://img.shields.io/badge/MAXIMUM_SEVERITY-10.0_CRITICAL-d00020?style=for-the-badge&labelColor=050505)
+![Recognition](https://img.shields.io/badge/VENDOR_RECOGNITION-4_MAJOR_VENDORS-333333?style=for-the-badge&labelColor=050505)
+
+</div>
+
+### `CASE 0x01 // GOOGLE MESOP AI`
+
+![Critical](https://img.shields.io/badge/SEVERITY-CRITICAL-d00020?style=flat-square&labelColor=050505)
+![RCE](https://img.shields.io/badge/IMPACT-REMOTE_CODE_EXECUTION-8b0015?style=flat-square&labelColor=050505)
+![CVSS](https://img.shields.io/badge/CVSS-10.0-ff163d?style=flat-square&labelColor=050505)
+
+> **Attack chain:** Path traversal escalated into full remote code execution.<br />
+> **Identifiers:** [CVE-2026-33054](https://nvd.nist.gov/vuln/detail/CVE-2026-33054) + [CVE-2026-33057](https://nvd.nist.gov/vuln/detail/CVE-2026-33057)
+
+### `CASE 0x02 // APPLE SWIFT-NIO`
+
+![High](https://img.shields.io/badge/SEVERITY-HIGH-b11226?style=flat-square&labelColor=050505)
+![DoS](https://img.shields.io/badge/IMPACT-REMOTE_CRASH-69000f?style=flat-square&labelColor=050505)
+
+> **Attack vector:** Excessive 64-bit payload length destabilized the WebSocket frame decoder.<br />
+> **Identifier:** [CVE-2026-43678](https://nvd.nist.gov/vuln/detail/CVE-2026-43678)
+
+### `CASE 0x03 // ACCESS CONTROL COLLAPSE`
+
+![Budibase](https://img.shields.io/badge/BUDIBASE-AUTH_BYPASS-8b0015?style=flat-square&labelColor=050505)
+![Directus](https://img.shields.io/badge/DIRECTUS-UNAUTHORIZED_ACCESS-8b0015?style=flat-square&labelColor=050505)
+
+> **Budibase:** Authorization bypass and unauthenticated credential exposure - [CVE-2026-50137](https://nvd.nist.gov/vuln/detail/CVE-2026-50137).<br />
+> **Directus CMS:** Access-control failure enabling unauthorized data exposure - [CVE-2026-35441](https://nvd.nist.gov/vuln/detail/CVE-2026-35441).
+
+### `CASE 0x04 // VENDOR BREACH REPORTS`
+
+> `APPLE CONTAINER` - 2 official advisories: integer overflow + symlink traversal<br />
+> `MICROSOFT + ORACLE` - 5 responsibly disclosed infrastructure and critical software flaws
 
 <div align="center">
 
@@ -61,48 +95,73 @@ Security engineer operating at the intersection of **cloud defense, DevSecOps, a
 
 <br />
 
-**Invited to the MSRC Researcher Celebration at Black Hat USA 2026.**
+### `◈ MSRC RESEARCHER CELEBRATION // BLACK HAT USA 2026 // INVITED ◈`
 
 </div>
 
-## `// ACTIVE_DEPLOYMENTS`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:000000,52:250008,100:8b0015&text=ACTIVE%20DEPLOYMENTS&fontColor=ff163d&fontSize=23&fontAlign=18&animation=fadeIn" alt="Active deployments section" />
 
-| Operation | Objective | Measured outcome |
-|:--|:--|:--|
-| **DevOps Defender** | AI agent analyzes logs, isolates root causes, and deploys remediations across Kubernetes, Terraform, Jenkins, ArgoCD, Prometheus, and Grafana | **40% less CI/CD downtime** |
-| **Cybersecurity Academy** | AI-powered LMS with hybrid labs, skill-gap analysis, and personalized job matching | **500 users served** |
-| **Cybersecurity Range** | Attack-and-defend environment with CTF, privilege-escalation, CVE, and blue-team scenarios | **100 active challenges / 5 AD labs** |
+<details open>
+<summary><strong>OPERATION 01 // DEVOPS DEFENDER // AI REMEDIATION ENGINE</strong></summary>
+<br />
 
-## `// OPERATIONAL_HISTORY`
+> Autonomous agent analyzes logs, isolates root causes, and deploys remediations across Kubernetes, Terraform, Jenkins, ArgoCD, Prometheus, and Grafana.
+
+![Impact](https://img.shields.io/badge/PIPELINE_DOWNTIME-%E2%96%BC_40%25-d00020?style=for-the-badge&labelColor=050505)
+![State](https://img.shields.io/badge/STATE-ARMED-222222?style=for-the-badge&labelColor=050505)
+
+</details>
+
+<details open>
+<summary><strong>OPERATION 02 // CYBERSECURITY ACADEMY // AI-POWERED LMS</strong></summary>
+<br />
+
+> Hybrid cyber labs, automated skill-gap analysis, personalized job matching, and a full administrative command center.
+
+![Users](https://img.shields.io/badge/OPERATIVES_TRAINED-500-8b0015?style=for-the-badge&labelColor=050505)
+![Stack](https://img.shields.io/badge/STACK-MERN_%2B_MYSQL-222222?style=for-the-badge&labelColor=050505)
+
+</details>
+
+<details open>
+<summary><strong>OPERATION 03 // CYBER RANGE // ADVERSARY SIMULATION GRID</strong></summary>
+<br />
+
+> Attack-and-defend range loaded with CTF, privilege-escalation, CVE, blue-team, and APT adversary-emulation scenarios.
+
+![Challenges](https://img.shields.io/badge/ACTIVE_CHALLENGES-100-d00020?style=for-the-badge&labelColor=050505)
+![AD](https://img.shields.io/badge/ACTIVE_DIRECTORY_LABS-5-8b0015?style=for-the-badge&labelColor=050505)
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:000000,52:250008,100:8b0015&text=OPERATIONAL%20HISTORY&fontColor=ff163d&fontSize=23&fontAlign=18&animation=fadeIn" alt="Operational history section" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `2026 - PRESENT`
+### `MISSION 01 // BLACK PEARL DFIR // 2026 - PRESENT`
 
-**Security Engineering Intern · Black Pearl DFIR**
+![Role](https://img.shields.io/badge/ROLE-SECURITY_ENGINEERING_INTERN-d00020?style=flat-square&labelColor=050505)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-28a745?style=flat-square&labelColor=050505)
 
-- Built centralized threat-intelligence visibility across 5 critical Tata Agritas networks and systems
-- Automated response workflows, reducing resolution time by **30%** and saving **15 hours weekly**
-- Analyzed approximately **50 threat alerts per week**
+> Centralized threat-intelligence visibility across **5 critical networks**. Automated response workflows cut resolution time by **30%**, reclaimed **15 hours weekly**, and processed approximately **50 threat alerts per week**.
 
 </td>
 <td width="50%" valign="top">
 
-### `2025 - 2026`
+### `MISSION 02 // ISRO // 2025 - 2026`
 
-**Cybersecurity Intern · ISRO**
+![Role](https://img.shields.io/badge/ROLE-CYBERSECURITY_INTERN-8b0015?style=flat-square&labelColor=050505)
+![Status](https://img.shields.io/badge/STATUS-MISSION_COMPLETE-333333?style=flat-square&labelColor=050505)
 
-- Assessed risk across **6 secured aerospace network segments**
-- Investigated critical event logs with incident-response teams
-- Authored **10 standardized IR protocols**, improving workflow efficiency by **25%**
+> Assessed **6 secured aerospace network segments**, investigated critical event logs, and authored **10 incident-response protocols** that improved workflow efficiency by **25%**.
 
 </td>
 </tr>
 </table>
 
-## `// ARSENAL_MATRIX`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:000000,52:250008,100:8b0015&text=ARSENAL%20MATRIX&fontColor=ff163d&fontSize=23&fontAlign=16&animation=fadeIn" alt="Arsenal matrix section" />
 
 | Domain | Weapons loaded |
 |:--|:--|
@@ -118,7 +177,7 @@ Security engineer operating at the intersection of **cloud defense, DevSecOps, a
 
 </div>
 
-## `// BATTLE_RECORD`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:000000,52:250008,100:8b0015&text=BATTLE%20RECORD&fontColor=ff163d&fontSize=23&fontAlign=15&animation=fadeIn" alt="Battle record section" />
 
 <table>
 <tr>
@@ -139,7 +198,7 @@ Security engineer operating at the intersection of **cloud defense, DevSecOps, a
 </tr>
 </table>
 
-## `// CERTIFICATIONS_UNLOCKED`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:000000,52:250008,100:8b0015&text=CLEARANCE%20UNLOCKED&fontColor=ff163d&fontSize=23&fontAlign=17&animation=fadeIn" alt="Certifications section" />
 
 <div align="center">
 
@@ -151,12 +210,12 @@ Security engineer operating at the intersection of **cloud defense, DevSecOps, a
 
 </div>
 
-## `// ORIGIN_RECORD`
+### `// ORIGIN_RECORD`
 
 **B.Tech - Computer Science and Engineering (Cybersecurity)**<br />
 Sri Shakthi Institute of Engineering and Technology, Coimbatore · `2023 - 2027` · **GPA 8.6 / 10.0**
 
-## `// LIVE_TELEMETRY`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:000000,52:250008,100:8b0015&text=LIVE%20TELEMETRY&fontColor=ff163d&fontSize=23&fontAlign=15&animation=fadeIn" alt="Live telemetry section" />
 
 <div align="center">
 
